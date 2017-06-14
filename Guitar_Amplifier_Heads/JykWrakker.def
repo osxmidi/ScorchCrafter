@@ -1,0 +1,4 @@
+LIBRARY JykWrakker
+EXPORTS
+	VSTPluginMain
+	main=VSTPluginMain
