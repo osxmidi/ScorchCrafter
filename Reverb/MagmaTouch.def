@@ -1,0 +1,4 @@
+LIBRARY MagmaTouch
+EXPORTS
+	VSTPluginMain
+	main=VSTPluginMain

@@ -1,0 +1,4 @@
+LIBRARY RageStomp
+EXPORTS
+	VSTPluginMain
+	main=VSTPluginMain

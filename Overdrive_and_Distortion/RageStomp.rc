@@ -1,0 +1,53 @@
+#define APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+Rage_Stomp.png					PNG  DISCARDABLE		"Rage_Stomp.png"
+RgStmp_Bttn.png					PNG  DISCARDABLE		"RgStmp_Bttn.png"
+mini_knob_2a.png				PNG  DISCARDABLE		"mini_knob_2a.png"
+Digit_Numbers_160x16.png		PNG  DISCARDABLE		"Digit_Numbers_160x16.png"
+OnOff_Button_Green.png			PNG  DISCARDABLE		"OnOff_Button_Green.png"
+blank_16x16.png					PNG  DISCARDABLE		"blank_16x16.png"
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+1 VERSIONINFO
+ FILEVERSION    1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+FILEFLAGSMASK 0x0L
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+// FILEOS 0x4L
+FILETYPE 0x2L
+FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "000004e4"
+        BEGIN
+			VALUE "CompanyName", "ScorchCrafter\0"
+			VALUE "FileDescription", "RageStomp VST Guitar Distortion FX\0"
+			VALUE "FileVersion", "1.0.0.0"
+			VALUE "InternalName", "RageStomp"
+			VALUE "LegalCopyright", "ScorchCrafter\0"
+			VALUE "OriginalFilename", "RageStomp"
+			VALUE "ProductName", "RageStomp"
+			VALUE "ProductVersion", "1.0.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0, 1252
+    END
+END
+
+#endif    // !_MAC
