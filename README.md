@@ -2,7 +2,7 @@
 
 (GPL https://sourceforge.net/p/scorchcrafter/wiki/Home/) 
 
-Uses Distrho
+Uses a modified Distrho dpf version (https://github.com/DISTRHO)
 
 To make
 
@@ -22,6 +22,6 @@ change into /ScorchcrafterGUI/plugins/Scorch and move the scorchcrafter.o file t
 
 run make
 
-Binaries appear in  /ScorchcrafterGUI/bin folder
+Binaries appear in the /ScorchcrafterGUI/bin folder
 
 
