@@ -10,5 +10,5 @@ change into the dgl folder and make
 
 change into the dpf/utils folder and 
 
-python ./png2rgba.py DistrhoArtworkScorch pathtoArtwork folder
+python ./png2rgba.py DistrhoArtworkScorch pathto->ScorchcrafterGUI/plugins/Scorch/artwork
 
