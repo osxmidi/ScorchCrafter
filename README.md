@@ -12,7 +12,9 @@ change into the dgl folder and run make
 
 change into the dpf/utils folder and run
 
-python ./png2rgba.py DistrhoArtworkScorch (pathto ScorchcrafterGUI/plugins/Scorch/artwork)
+python ./png2rgba.py DistrhoArtworkScorch (pathto /ScorchcrafterGUI/plugins/Scorch/artwork)
+
+Move DistrhoArtworkScorch.cpp and DistrhoArtworkScorch.hpp to /ScorchcrafterGUI/plugins/Scorch
 
 change into /ScorchcrafterGUI/plugins/Scorch/Guitar_Amplifier_Heads folder and run ./compile.sh to make scorchcrafter.o
 
