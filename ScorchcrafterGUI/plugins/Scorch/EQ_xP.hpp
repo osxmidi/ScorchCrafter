@@ -1,7 +1,7 @@
 #ifndef SCORCHCRAFTER_MODULE_EQ_xP_INC
 #define SCORCHCRAFTER_MODULE_EQ_xP_INC
 
-#include "scorchcrafter_platform.hpp"
+#include "Scorchcrafter_Platform.hpp"
 
 using namespace ::ScorchCrafter;
 using namespace ::ScorchCrafter::DataTypes;
