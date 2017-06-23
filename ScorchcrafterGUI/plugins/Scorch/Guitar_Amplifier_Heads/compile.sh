@@ -1,1 +1,0 @@
-g++ -shared -fPIC -O2 -c -ffast-math -finline-functions -fno-math-errno -ffinite-math-only -fno-rounding-math -fno-signaling-nans -fno-trapping-math -fno-signed-zeros -fno-rtti -fno-exceptions -Wno-write-strings -Wno-narrowing -I../ -DSCRFT_STATIC -DSCORCHCRAFTER_USE_NONSTANDARD_OR_NO_GUI -DSCORCHCRAFTER_COMPILE_64 JykWrakker.cpp -o scorchcrafter.o
