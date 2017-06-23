@@ -18,7 +18,7 @@ Move DistrhoArtworkScorch.cpp and DistrhoArtworkScorch.hpp to /ScorchcrafterGUI/
 
 change into /ScorchcrafterGUI/plugins/Scorch/Guitar_Amplifier_Heads folder and run ./compile.sh to make scorchcrafter.o
 
-change into /ScorchcrafterGUI/plugins/Scorch and move the scorchcrafter.o file to it
+change into /ScorchcrafterGUI/plugins/Scorch 
 
 run make
 
