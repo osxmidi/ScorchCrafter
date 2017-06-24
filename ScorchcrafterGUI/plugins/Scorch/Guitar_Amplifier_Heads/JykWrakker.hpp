@@ -216,7 +216,7 @@ namespace ScorchCrafter
 						for(u32 y = 0u; y < (u32) kMax_Parameter_Count; y++)
 						{
 							Bank[x].prm[kOverSampling_On] = 0.020;
-							Bank[x].prm[kOverSampling_Off] = 0.100;
+							Bank[x].prm[kOverSampling_Off] = 0.020;
 							Bank[x].prm[kMasterVol] = 0.500;
 							Bank[x].prm[kInputBoost] = 0.000;
 							Bank[x].prm[kGainControl] = 0.500;
