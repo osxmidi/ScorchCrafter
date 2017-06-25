@@ -16,12 +16,14 @@ python ./png2rgba.py DistrhoArtworkScorch (pathto /ScorchcrafterGUI/plugins/Scor
 
 Move DistrhoArtworkScorch.cpp and DistrhoArtworkScorch.hpp to /ScorchcrafterGUI/plugins/Scorch
 
-change into /ScorchcrafterGUI/plugins/Scorch/Guitar_Amplifier_Heads folder and run ./compile.sh to make scorchcrafter.o
+change into /ScorchcrafterGUI/plugins/Scorch/Guitar_Amplifier_Heads folder and run ./compile.sh to make scorchcrafter.o (chmod +x compile.sh might be needed)
 
 change into /ScorchcrafterGUI/plugins/Scorch 
 
 run make
 
 Binaries appear in the /ScorchcrafterGUI/bin folder
+
+oversample.zip is for the oversampling version
 
 
