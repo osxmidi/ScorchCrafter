@@ -97,6 +97,10 @@ public:
 
 	numParameters = Params->GetNumberOfParameters();
 	
+	Params->GetPresetName( tmpName, 127 );
+	strncpy( programName, tmpName, kVstMaxProgNameLen );
+
+
 		if ( (!srate) || (srate < 44100.f) )
 		srate = 44100.f; // Minimum sample rate supported
 	if ( srate > 16777216.f )
