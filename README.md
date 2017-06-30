@@ -1,5 +1,11 @@
 # Scorchcrafter amp sim Linux 64 bit vst
 
+Quad core (or more) systems recommended.
+
+Does not include cabinets.
+
+Some possible cabinets  http://flos-audio-plugins.eu/ http://distrho.sourceforge.net/ports klangfalter
+
 (GPL https://sourceforge.net/p/scorchcrafter/wiki/Home/) 
 
 Uses a modified Distrho dpf version (https://github.com/DISTRHO)
