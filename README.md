@@ -4,7 +4,7 @@ Quad core (or more) systems recommended.
 
 Does not include cabinets.
 
-Some possible cabinets  http://flos-audio-plugins.eu/ http://distrho.sourceforge.net/ports klangfalter
+Some possible cabinets  http://flos-audio-plugins.eu/ http://distrho.sourceforge.net/ports klangfalter http://lsp-plug.in/
 
 -----
 
