@@ -4,7 +4,7 @@ Quad core (or more) systems recommended.
 
 Does not include cabinets.
 
-Some possible IR/cabinets  http://flos-audio-plugins.eu/ and http://distrho.sourceforge.net/ports (klangfalter) and http://lsp-plug.in/ (Impulsantworten)
+Some possible IR Loders/IR cabinets  Reaper's ReaVerb, http://flos-audio-plugins.eu/  http://distrho.sourceforge.net/ports (klangfalter)  http://lsp-plug.in/ (Impulsantworten)
 
 -----
 
