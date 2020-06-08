@@ -22,7 +22,7 @@ change into the dpf/utils folder and run
 
 python ./png2rgba.py DistrhoArtworkScorch (pathto /ScorchcrafterGUI/plugins/Scorch/artwork)
 
-(requires the python pil library, sudo apt-get install python-pil)
+(requires the Python Imaging Library, sudo apt-get install python-pil)
 
 Move DistrhoArtworkScorch.cpp and DistrhoArtworkScorch.hpp to /ScorchcrafterGUI/plugins/Scorch
 
