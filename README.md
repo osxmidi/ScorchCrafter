@@ -20,7 +20,7 @@ change into the dgl folder and run make
 
 change into the dpf/utils folder and run
 
-python ./png2rgba.py DistrhoArtworkScorch (pathto /ScorchcrafterGUI/plugins/Scorch/artwork)
+python ./png2rgba.py DistrhoArtworkScorch (your path to /ScorchcrafterGUI/plugins/Scorch/artwork)
 
 (requires the Python Imaging Library, sudo apt-get install python-pil)
 
