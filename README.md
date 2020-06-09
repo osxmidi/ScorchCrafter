@@ -26,11 +26,11 @@ python ./png2rgba.py DistrhoArtworkScorch (pathto /ScorchcrafterGUI/plugins/Scor
 
 Move DistrhoArtworkScorch.cpp and DistrhoArtworkScorch.hpp to /ScorchcrafterGUI/plugins/Scorch
 
-change into /ScorchcrafterGUI/plugins/Scorch/Guitar_Amplifier_Heads folder and run ./compile.sh to make scorchcrafter.o (chmod +x compile.sh might be needed)
+change into /ScorchcrafterGUI/plugins/Scorch/Guitar_Amplifier_Heads and run ./compile.sh to make scorchcrafter.o (chmod +x compile.sh might be needed)
 
-change into /ScorchcrafterGUI/plugins/Scorch 
+change into /ScorchcrafterGUI/plugins/Scorch and run make
 
-run make
+change into /ScorchCrafter-amp/ScorchcrafterGUI/ and run make
 
 Binaries appear in the /ScorchcrafterGUI/bin folder
 
