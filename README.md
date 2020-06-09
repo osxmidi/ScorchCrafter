@@ -32,8 +32,6 @@ change into /ScorchcrafterGUI/plugins/Scorch/Guitar_Amplifier_Heads and run ./co
 
 change into /ScorchcrafterGUI/plugins/Scorch and run make
 
-change into /ScorchCrafter-amp/ScorchcrafterGUI/ and run make
-
 Binaries appear in the /ScorchcrafterGUI/bin folder
 
 oversample.zip is for the oversampling version
