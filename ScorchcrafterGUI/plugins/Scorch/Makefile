@@ -33,7 +33,7 @@ TARGETS += ladspa
 # TARGETS += dssi
 endif
 
-TARGETS += lv2_dsp
+TARGETS += lv2_sep
 TARGETS += vst
 
 all: $(TARGETS)
