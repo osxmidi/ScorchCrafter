@@ -34,8 +34,6 @@ run make
 
 Binaries appear in the /ScorchcrafterGUI/bin folder
 
-See Scorch-make-lv2.zip for making the lv2 version.
-
 oversample.zip is for the oversampling version
 
 
