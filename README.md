@@ -14,6 +14,8 @@ Uses a modified Distrho dpf version (https://github.com/DISTRHO)
 
 To make
 
+Pre installed libraries needed, sudo apt-get install libx11-dev and sudo apt-get install lv2-dev
+
 Unzip dpf.zip
 
 change into the dgl folder and run make
