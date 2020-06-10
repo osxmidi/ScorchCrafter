@@ -79,20 +79,20 @@ namespace ScorchCrafter
 
 				void Init()
 				{
-					strncpy( label[kOverSampling_On].txt,		"smp on  ", 15 );
-					strncpy( label[kOverSampling_Off].txt,		"smp off ", 15 );
+					strncpy( label[kOverSampling_On].txt,		"smp_on", 15 );
+					strncpy( label[kOverSampling_Off].txt,		"smp_off", 15 );
 					strncpy( label[kMasterVol].txt,				"master v", 15 );
-					strncpy( label[kInputBoost].txt,			"in boost", 15 );
-					strncpy( label[kGainControl].txt,			"gain    ", 15 );
-					strncpy( label[kBright].txt,				"bright  ", 15 );
-					strncpy( label[kAmpChan].txt,				"channel ", 15 );
-					strncpy( label[kEQBass].txt,				"q bass  ", 15 );
-					strncpy( label[kEQMid].txt,					"q mid   ", 15 );
-					strncpy( label[kEQTreble].txt,				"q treble", 15 );
-					strncpy( label[kEQPresence].txt,			"q pres  ", 15 );
-					strncpy( label[kEQContour].txt,				"q contr ", 15 );
-					strncpy( label[kNoiseFilter_On].txt,		"ns filt ", 15 );
-					strncpy( label[kNoiseFilter_Level].txt,		"filt lev", 15 );
+					strncpy( label[kInputBoost].txt,			"in_boost", 15 );
+					strncpy( label[kGainControl].txt,			"gain", 15 );
+					strncpy( label[kBright].txt,				"bright", 15 );
+					strncpy( label[kAmpChan].txt,				"channel", 15 );
+					strncpy( label[kEQBass].txt,				"q_bass", 15 );
+					strncpy( label[kEQMid].txt,					"q_mid", 15 );
+					strncpy( label[kEQTreble].txt,				"q_treble", 15 );
+					strncpy( label[kEQPresence].txt,			"q_pres", 15 );
+					strncpy( label[kEQContour].txt,				"q_contr", 15 );
+					strncpy( label[kNoiseFilter_On].txt,		"ns_filt", 15 );
+					strncpy( label[kNoiseFilter_Level].txt,		"filt_lev", 15 );
 				}
 			};
 			enum kPresetControlList
