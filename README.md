@@ -4,7 +4,7 @@ Quad core (or more) systems recommended.
 
 Does not include cabinets/IR.
 
-Some possible IR Loaders, Reaper's ReaVerb, http://distrho.sourceforge.net/ports (KlangFalter, To use the KlangFalter plugin, click on "no file loaded" to load a IR file) or https://github.com/osxmidi/KlangFalter, http://lsp-plug.in/ (Impulsantworten)
+Some possible IR loaders https://github.com/osxmidi/KlangFalter and http://lsp-plug.in/ (Impulsantworten)
 
 -----
 
