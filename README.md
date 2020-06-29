@@ -1,5 +1,8 @@
 # Scorchcrafter amp sim Linux 64 bit vst and lv2
 
+
+ScorchCrafter Amp Sim (short demo at https://soundcloud.com/aaabii/test)
+
 Quad core (or more) systems recommended.
 
 Does not include cabinets/IR.
