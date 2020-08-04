@@ -161,7 +161,7 @@ protected:
     */
     const char* getHomePage() const override
     {
-        return " ";
+        return "";
     }
 
    /**
