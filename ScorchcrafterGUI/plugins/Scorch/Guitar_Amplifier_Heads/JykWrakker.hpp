@@ -81,7 +81,7 @@ namespace ScorchCrafter
 				{
 					strncpy( label[kOverSampling_On].txt,		"smp_on", 15 );
 					strncpy( label[kOverSampling_Off].txt,		"smp_off", 15 );
-					strncpy( label[kMasterVol].txt,				"master v", 15 );
+					strncpy( label[kMasterVol].txt,				"master_v", 15 );
 					strncpy( label[kInputBoost].txt,			"in_boost", 15 );
 					strncpy( label[kGainControl].txt,			"gain", 15 );
 					strncpy( label[kBright].txt,				"bright", 15 );
