@@ -1,0 +1,5 @@
+cd ./dpf/utils/
+python ./png2rgba.py DistrhoArtworkScorch ../../plugins/Scorch/artwork
+cd ../../plugins/Scorch/Guitar_Amplifier_Heads
+chmod +x compile.sh
+./compile.sh
