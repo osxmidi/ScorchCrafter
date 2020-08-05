@@ -195,10 +195,12 @@ protected:
     
  void initProgramName(uint32_t index, String& programName) override
 {
-
+    char text[kVstMaxProgNameLen];
+    memset(text, 0, kVstMaxProgNameLen);   
+    getProgramNameIndexedx (0, index, text);
+    programName = text;	             
 }
-   
-   
+     
    /**
       Initialize the parameter @a index.
       This function will be called once, shortly after the plugin is created.
