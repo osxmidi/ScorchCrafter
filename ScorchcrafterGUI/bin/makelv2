@@ -1,0 +1,2 @@
+cd Scorch.lv2
+../lvmake ./Scorch_dsp.so
