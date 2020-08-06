@@ -17,11 +17,27 @@ Uses a modified Distrho dpf version (https://github.com/DISTRHO)
 
 To make
 
-Pre installed libraries needed, sudo apt-get install libx11-dev and sudo apt-get install libgl1-mesa-dev
+Pre installed libraries needed, sudo apt-get install libx11-dev and sudo apt-get install libgl1-mesa-dev (and sudo apt-get install lv2-dev for lv2)
+
+change into the ScorchcrafterGUI folder
 
 Unzip dpf.zip
 
-change into the dgl folder and run make
+chmod +x scorchmake
+
+./scorchmake
+
+Binaries appear in the /ScorchcrafterGUI/bin folder
+
+For lv2 run ./makelv2 in the /ScorchcrafterGUI/bin folder (probably requires a chmod +x makelv2 and a chmod +x lvmake)
+
+-------
+
+To make manually
+
+change into the ScorchcrafterGUI folder
+
+change into the dpf/dgl folder and run make
 
 change into the dpf/utils folder and run
 
@@ -37,7 +53,7 @@ change into /ScorchcrafterGUI/plugins/Scorch and run make
 
 Binaries appear in the /ScorchcrafterGUI/bin folder
 
-For lv2 run ./makelv2 in the /ScorchcrafterGUI/bin folder (makelv2 might require a chmod +x makelv2 to make it executable)
+For lv2 run ./makelv2 in the /ScorchcrafterGUI/bin folder (probably requires a chmod +x makelv2 and a chmod +x lvmake)
 
 oversample.zip is optional and is for a oversampling version
 
