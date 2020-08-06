@@ -17,7 +17,7 @@ Uses a modified Distrho dpf version (https://github.com/DISTRHO)
 
 To make
 
-Pre installed libraries needed, sudo apt-get install libx11-dev and sudo apt-get install libgl1-mesa-dev (and sudo apt-get install lv2-dev for lv2)
+Pre installed libraries needed, sudo apt-get install libx11-dev and sudo apt-get install libgl1-mesa-dev and sudo apt-get install python-pil (and sudo apt-get install lv2-dev for lv2)
 
 change into the ScorchcrafterGUI folder
 
