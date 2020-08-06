@@ -1,4 +1,4 @@
-# Scorchcrafter amp sim Linux 64 bit vst and lv2
+# Scorchcrafter amp sim Linux 64 bit vst
 
 
 ScorchCrafter Amp Sim (short demo at https://soundcloud.com/aaabii/test)
