@@ -17,7 +17,7 @@ Uses a modified Distrho dpf version (https://github.com/DISTRHO)
 
 To make
 
-Pre installed libraries needed, sudo apt-get install libx11-dev and sudo apt-get install libgl1-mesa-dev (and sudo apt-get install lv2-dev for lv2)
+Pre installed libraries needed, sudo apt-get install libx11-dev and sudo apt-get install libgl1-mesa-dev
 
 Unzip dpf.zip
 
@@ -36,8 +36,6 @@ change into /ScorchcrafterGUI/plugins/Scorch/Guitar_Amplifier_Heads and run ./co
 change into /ScorchcrafterGUI/plugins/Scorch and run make
 
 Binaries appear in the /ScorchcrafterGUI/bin folder
-
-For lv2 copy the ttl files in lv2-ttl-files.zip to the Scorch.lv2 folder.
 
 oversample.zip is for the oversampling version
 
