@@ -1,4 +1,4 @@
-# Scorchcrafter amp sim Linux 64 bit vst
+# Scorchcrafter amp sim Linux 64 bit
 
 
 ScorchCrafter Amp Sim (short demo at https://soundcloud.com/aaabii/test)
@@ -37,6 +37,8 @@ change into /ScorchcrafterGUI/plugins/Scorch and run make
 
 Binaries appear in the /ScorchcrafterGUI/bin folder
 
-oversample.zip is for the oversampling version
+For lv2 run ./makelv2 in the /ScorchcrafterGUI/bin folder (makelv2 might require a chmod +x makelv2 to make it executable)
+
+oversample.zip is optional and is for a oversampling version
 
 
