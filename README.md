@@ -11,6 +11,8 @@ Some possible IR loaders https://github.com/osxmidi/KlangFalter and http://lsp-p
 
 -----
 
+A JUCE based version is at https://github.com/osxmidi/ScorchCrafter-JUCE
+
 (GPL https://sourceforge.net/p/scorchcrafter/wiki/Home/) 
 
 Uses a modified Distrho dpf version (https://github.com/DISTRHO)
