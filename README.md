@@ -7,7 +7,7 @@ Quad core (or more) systems recommended.
 
 Does not include cabinets/IR.
 
-Some possible IR loaders https://github.com/osxmidi/KlangFalter and http://lsp-plug.in/ (Impulsantworten)
+Some possible IR loaders https://github.com/osxmidi/KlangFalter and http://lsp-plug.in/ (Impulsantworten) and EasyConvolver https://www.genuinesoundware.com/
 
 -----
 
