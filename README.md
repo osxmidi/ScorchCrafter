@@ -33,6 +33,10 @@ Binaries appear in the /ScorchcrafterGUI/bin folder
 
 For lv2 run ./makelv2 in the /ScorchcrafterGUI/bin folder (probably requires a chmod +x makelv2 and a chmod +x lvmake)
 
+lvmake is a renamed lv2_ttl_generator binary.
+
+Using g++ lv2_ttl_generator.c -o lvmake should make lvmake.
+
 -------
 
 To make manually
